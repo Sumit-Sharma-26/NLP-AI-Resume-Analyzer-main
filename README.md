@@ -43,37 +43,28 @@ In the Admin section of the App you will able to see the data to the resume whic
     * converter
         * TextConverter
 * io 
-* random
+* Random
 * streamlit_tags
 * PIL
 * pafy
-* plotly
+* Plotly
 * nltk
 
 ## To Run Resume Analysis
-run a following command in terminal of pycharm
+run the following command in the terminal of pycharm
 ```
-Streamlit run App.py
+Streamlight run App.py
 ```
 ## Deployment
 ```
 1. Load the necessary Modules
 2. Define the function for the youtube video to fetch.
-3. Define a function which is Generating a link allowing the data in a given panda dataframe to be downloaded.
-4. Define a function which will read the resume pdf
+3. Define a function which is Generating a link allowing the data in a given panda data frame to be downloaded.
+4. Define a function that will read the resume pdf
 5. And extract the valuable info from that.
-6. Define a function which will show the pdf of the resume.
-7. define a function for the courses recommendation.
-8. connect to the sql database to store the processed resume information.
-9. And after fetch the information just display on the streamlit App.
-9. Push the code on the github.
+6. Define a function that will show the pdf of the resume.
+7. define a function for the course recommendation.
+8. connect to the SQL database to store the processed resume information.
+9. And after fetching the information just display on the Streamlit App.
+9. Push the code on GitHub.
 ```
-
-
-## Demo
-
-![App Screenshot](https://raw.githubusercontent.com/Franky-Saxena/NLP-AI-Resume-Analyzer/main/Untitled1.png)
-![App Screenshot](https://raw.githubusercontent.com/Franky-Saxena/NLP-AI-Resume-Analyzer/main/Untitled2.png)
-![App Screenshot](https://raw.githubusercontent.com/Franky-Saxena/NLP-AI-Resume-Analyzer/main/Untitled3.png)
-![App Screenshot](https://raw.githubusercontent.com/Franky-Saxena/NLP-AI-Resume-Analyzer/main/Untitled4.png)
-![App Screenshot](https://raw.githubusercontent.com/Franky-Saxena/NLP-AI-Resume-Analyzer/main/Untitled5.png)
